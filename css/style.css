@@ -1,0 +1,11 @@
+@media only screen and (max-width:576px){
+    .penguin-text img{
+       margin-bottom: 20px;
+    }
+    .penguin-text{
+        text-align: center;
+    }
+    .penguin-text button{
+        text-align: center;
+    }
+}
